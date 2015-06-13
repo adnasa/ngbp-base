@@ -1,6 +1,6 @@
 *.sw*
 *~
-build/
+public/
 bin/
 node_modules/
-vendor/
+external/
